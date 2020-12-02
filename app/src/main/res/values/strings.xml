@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Kiwe Task</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="don_t_have_an_account_yet">Don\'t have an account yet?</string>
+    <string name="registration">Registration</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="age">Age</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="validation_valid_email">Enter valid email address</string>
+    <string name="validation_field_required">This field is required</string>
+    <string name="validation_valid_password">Password should be 8 characters long with Alphanumeric and special characters</string>
+    <string name="validation_valid_age">Age should be on or above 18</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="terms_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="logout">Logout</string>
+    <string name="venues">Venues</string>
+    <string name="map">Map</string>
+    <string name="check_credentials">Please check your credentials or register if you don\'t have an account.</string>
+    <string name="email_already_exists">This email is already exists.</string>
+    <string name="location_denied">Sorry, You must give location permission to show venues near you.</string>
+    <string name="venue_details">Venue details</string>
+    <string name="something_went_wrong">Something went wrong. Please check your internet connection and try again</string>
+</resources>
